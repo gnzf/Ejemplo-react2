@@ -1,0 +1,118 @@
+{
+  "peliculas": [
+    {
+      "id": 1,
+      "nombre": "El sexto sentido",
+      "director": "M. Night Shyamalan",
+      "clasificacion": "Drama"
+    },
+    {
+      "id": 2,
+      "nombre": "Pulp Fiction",
+      "director": "Tarantino",
+      "clasificacion": "Acción"
+    },
+    {
+      "id": 3,
+      "nombre": "Todo Sobre Mi Madre",
+      "director": "Almodobar",
+      "clasificacion": "Drama"
+    },
+    {
+      "id": 4,
+      "nombre": "300",
+      "director": "Zack Snyder",
+      "clasificacion": "Acción"
+    },
+    {
+      "id": 5,
+      "nombre": "El silencio de los corderos",
+      "director": "Jonathan Demme",
+      "clasificacion": "Drama"
+    },
+    {
+      "id": 6,
+      "nombre": "lapeli",
+      "director": "scce",
+      "clasificacion": "terror"
+    },
+    {
+      "id": 7,
+      "nombre": "Las Hurdes",
+      "director": "Luis Buñuel",
+      "clasificacion": "Documental"
+    },
+    {
+      "id": 9,
+      "nombre": "50/50",
+      "director": "Ni idea",
+      "clasificacion": "Drama"
+    },
+    {
+      "id": 22,
+      "nombre": "Barbie",
+      "director": "Gonza",
+      "clasificacion": "Suspenso"
+    },
+    {
+      "id": 123,
+      "nombre": "123",
+      "director": "123",
+      "clasificacion": "123"
+    },
+    {
+      "id": 12344,
+      "nombre": "443",
+      "director": "343",
+      "clasificacion": "434"
+    },
+    {
+      "id": 55,
+      "nombre": "fue horrible",
+      "director": "44",
+      "clasificacion": "bueno"
+    },
+    {
+      "id": 23,
+      "nombre": "Los Simpson",
+      "director": "Math Groening",
+      "clasificacion": "Comedia"
+    }
+  ],
+  "clasificaciones": [
+    {
+      "nombre": "Drama",
+      "id": 1
+    },
+    {
+      "nombre": "Comedia",
+      "id": 2
+    },
+    {
+      "nombre": "Documental",
+      "id": 3
+    },
+    {
+      "nombre": "Acción",
+      "id": 4
+    }
+  ],
+  "usuarios": [
+    {
+      "nombre": "Pedro",
+      "id": 1
+    },
+    {
+      "nombre": "Yazi",
+      "id": 2
+    },
+    {
+      "nombre": "Mica",
+      "id": 3
+    },
+    {
+      "nombre": "Javi",
+      "id": 4
+    }
+  ]
+}
